@@ -1,0 +1,35 @@
+
+Projekt prostej gry 2D
+
+Tytuł: Szwagry 2D
+
+Waga priorytetów:
+
+-[1] – Konieczne
+-[2] – Ważne
+-[3] – Ewentualne/dodatki
+
+Wymagania:
+
+1.Funkcjonalne:
+-wpisanie nicku [2]
+-wybór postaci [1]
+-poruszanie się  po świecie gry [1]
+-walka z przeciwnikiem [2]
+-ingerencja w świat gry [3]
+- multiplayer [3]
+
+2.Niefunkcjonalne:
+-graficzny interfejs 2D [1]
+-sandbox [3]
+-napisana w technologii Java [1]
+-obsługa urządzeń wejścia/wyjścia [1]
+- obsługa klient-serwer [3]
+
+Ogólnym zamysłem jest prosta gra wykonana w 2D podobna do Mario.
+Użytkownik będzie miał wybór jaką postacią chce grać. 
+Możliwość walki z przeciwnikami umożliwi broń którą będzie posiadała postać. 
+Poruszanie się po świecie umożliwi klawiatura ( strzałki lub WSAD). 
+W trakcie rozgrywki w tle będzie nastrojowa muzyka. 
+Użytkownik w trakcie zwiedzania świata gry może go modyfikować przez 
+umieszczenie nowych bądź usuwanie istniejących fragmentów „klocków”
